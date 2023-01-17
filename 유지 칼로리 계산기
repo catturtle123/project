@@ -1,0 +1,23 @@
+# main_calories_calculator
+> 유지 칼로리 계산기
+
+## 진행 기간
+> 22.7.22 ~ 22.7.29
+
+## 주요 내용
+> 헤리스-베네딕트 계산법을 사용하여 기초대사량 및 활동대사량을 구하는 계산기를 만듦.
+> 또한 칼로리를 계산하며 체중 조절에 BMI지수 계산 또한 필요할 것 같아 추가시킴. 
+
+## 기여한 점
+> 프로젝트(계산, 디자인, 기획, 발매 등)를 전체적으로 구상하고 이를 실현시킴.
+> 플러터 내에 있는 리펙토리 기능을 사용하여 코드를 정리하여 가시성을 늘림.
+
+## 기술스택/ 지식
+> 다트 플러터를 사용함.
+
+## 결과 및 성과
+> playstore : https://play.google.com/store/apps/details?id=com.developerJamey.maintain_calculator \n 
+> appstore : 출시 예정
+
+# app_icon_source
+https://icons8.com
